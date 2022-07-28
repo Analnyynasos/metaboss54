@@ -1,0 +1,16 @@
+{
+  "name": "Cactusino#463",
+  "symbol": "CACTUS",
+  "description": "777 Cactusino NFTs | 77% Rev share to all holders!",
+  "seller_fee_basis_points": 200,
+  "image": "https://nftstorage.link/ipfs/bafybeicgzacmolpxmqypberslfzahgmfrn7ayds3kaq5gkcth55ax6l2ni/463.png",
+  "attributes": [],
+    "category": "image",
+    "creators": [
+      {
+        "address": "FZ9XCR9S7zWiAupBms1T6wXpH2MEkZxtREy2UroxdU3J",
+        "share": 100
+      }
+    ]
+  }
+}
